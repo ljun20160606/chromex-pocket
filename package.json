@@ -1,6 +1,6 @@
 {
   "name": "chromex-pocket",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "chrome extension pocket",
   "main": "./lib",
   "scripts": {
