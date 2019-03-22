@@ -1,4 +1,4 @@
-# Chromex-pocket
+# Chromex-pocket &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/ljun20160606/chromex-pocket/blob/master/LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ljun20160606/chromex-pocket/pull/new)
 
 Chrome extension pocket.
 
