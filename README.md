@@ -1,6 +1,12 @@
 # Chromex-pocket
 
-chrome extension pocket
+Chrome extension pocket.
+
+## Installation
+
+```
+$ npm i chromex-pocket
+```
 
 ### Router
 
